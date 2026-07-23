@@ -67,7 +67,7 @@
 <div align="center">
 
 ### 📊 GitHub Stats
-
+<img src="https://raw.githubusercontent.com/tuila1freelancer/tuila1freelancer/output/snake-dark.svg" alt="snake" />
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tuila1freelancer&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=6366F1&text_color=C9D1D9&bg_color=0D1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuila1freelancer&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" />
 
