@@ -21,7 +21,7 @@
 - 🚀 **Full-Stack & AI Automation Developer** based in **Ho Chi Minh City, Vietnam** 🇻🇳
 - 💼 Freelancing under the **TuiLa1Freelancer** brand — end-to-end web/app, automation & AI systems
 - 🤖 I build **AI chatbots, multi-model LLM assistants & workflow automation** that help teams operate faster
-- 🎓 **Bachelor of Engineering in Information Technology**
+- 🎓 **Bachelor of Engineering in Data Engineering**
 - 🌐 Portfolio → **[tuila1freelancer.com](https://www.tuila1freelancer.com)**
 - 💬 Ask me about **Next.js, FastAPI / NestJS, LLM apps (RAG · agents), automation**
 
